@@ -1,0 +1,12 @@
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.deps.json
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.dll
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/ref/RentCars.dll
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.pdb
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.csproj.AssemblyReference.cache
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.AssemblyInfoInputs.cache
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.AssemblyInfo.cs
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.csproj.CoreCompileInputs.cache
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.dll
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/ref/RentCars.dll
+/home/paulo/Documentos/ExerciciosCS/secao-01/csharp-026-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.pdb
